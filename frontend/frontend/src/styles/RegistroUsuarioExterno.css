@@ -1,0 +1,16 @@
+/* Este archivo es opcional ya que estamos reutilizando el CSS existente */
+/* Si necesitas estilos específicos para usuarios externos, puedes agregarlos aquí */
+
+.loading-message {
+  text-align: center;
+  padding: 20px;
+  color: #6c757d;
+  font-style: italic;
+}
+
+.error-message {
+  color: #dc3545;
+  font-size: 0.8rem;
+  margin-top: 5px;
+  display: block;
+}
