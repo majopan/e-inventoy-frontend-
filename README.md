@@ -64,5 +64,6 @@ Ideal para organizaciones, empresas o instituciones que necesitan llevar un cont
 _(Agrega aquí tus imágenes de ejemplo con esta estructura)_
 
 ```md
-![Dashboard](./screenshots/dashboard.png)
-![Gráficas](./screenshots/graficas.png)
+![login](https://github.com/majopan/e-inventoy-frontend-/blob/main/img/login.png)
+![graficas dispositivos](https://github.com/majopan/e-inventoy-frontend-/blob/main/img/grafic_dis.png)
+![modulo de planos](https://github.com/majopan/e-inventoy-frontend-/blob/main/img/plano.png)
