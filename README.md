@@ -6,6 +6,12 @@ e-Inventory es una aplicación web fullstack diseñada para administrar disposit
 
 ---
 
+
+![login](https://github.com/majopan/e-inventoy-frontend-/blob/main/img/login.png) 
+
+---
+
+
 ## 📌 ¿Para qué sirve?
 
 Ideal para organizaciones, empresas o instituciones que necesitan llevar un control detallado y visual de sus dispositivos tecnológicos u otros recursos. Centraliza la gestión del inventario y facilita la toma de decisiones a partir de los datos disponibles.
@@ -63,7 +69,7 @@ Ideal para organizaciones, empresas o instituciones que necesitan llevar un cont
 
 _(Agrega aquí tus imágenes de ejemplo con esta estructura)_
 
-```md
-![login](https://github.com/majopan/e-inventoy-frontend-/blob/main/img/login.png)
+
+
 ![graficas dispositivos](https://github.com/majopan/e-inventoy-frontend-/blob/main/img/grafic_dis.png)
 ![modulo de planos](https://github.com/majopan/e-inventoy-frontend-/blob/main/img/plano.png)
